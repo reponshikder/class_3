@@ -1,0 +1,63 @@
+body{
+	margin: 0;
+}
+img{
+	max-width: 100%;
+}
+.banner1{
+    background-image: url(../images/portfolio-item57.jpg);
+    padding: 130px 15%;
+    text-align: center;
+    background-attachment: fixed;
+    background-position: center;
+}
+.banner2{
+    background-image: url(../images/portfolio-item58.jpg);
+   
+    padding: 130px 15%;
+    text-align: center;
+    background-attachment: fixed;
+    background-position: center;
+}
+.banner3{
+    background-image: url(../images/portfolio-item59.jpg);
+   
+    padding: 130px 15%;
+    text-align: center;
+    background-attachment: fixed;
+        background-position: center;
+
+}
+.banner4{
+    background-image: url(../images/portfolio-item60.jpg);
+   
+    padding: 130px 15%;
+    text-align: center;
+    background-attachment: fixed;
+        background-position: center;
+
+}
+.banner5{
+    background-image: url(../images/portfolio-item61.jpg);
+   
+    padding: 130px 15%;
+    text-align: center;
+    background-attachment: fixed;
+        background-position: center;
+
+
+h1{
+	margin: 0;
+	font-size: 60px;
+	color: #fff;
+}
+p{
+	margin: 0;
+	font-size: 20px;
+	color: #fff;
+	line-height: 1.5
+}
+.conten-box{
+	background: #00000082;
+	padding: 30px 50px;
+}
